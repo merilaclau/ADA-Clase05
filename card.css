@@ -1,0 +1,45 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.card {
+    /*border: 1px solid #333;*/
+    box-shadow: 0 0 5px #333;
+    height: 370px;
+    width: 250px;
+
+}
+
+.img-footer {
+    margin: 0;
+    width: 30px;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.content {
+    padding: 10px;
+}
+
+.content p {
+    font-size: 12px;
+}
+
+footer {
+    padding: 3px;
+}
+
